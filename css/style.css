@@ -1,0 +1,104 @@
+h1{
+    margin-top: 0.1rem;
+}
+h2,h3{
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+}
+h2{
+    margin-top: 0;
+    font-size: 1rem;
+}
+
+h3{
+    margin-top: 0;
+    font-size: 0.9rem;
+}
+.menuTop {
+    width: 150px;
+    position: fixed;
+    right: 10px;
+    font-size: 0.9rem;
+}
+.menuInner{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.menuInner a{
+    font-family: Arial;
+}
+
+.menuTop a{
+    box-shadow: 0 0 0 0 currentColor;
+}
+.menuTop a.active{
+    color:red;
+    box-shadow: 0 1px 0 0 currentColor;
+}
+.contacts p{
+    margin: 0;
+    font-family: Arial;
+}
+
+
+.job-period{
+    color: #3F3F3F;
+    font-size: 0.9rem;
+}
+
+.front-title{
+    text-align: center;
+}
+
+a{
+    color:black;
+}
+.half{
+    float: left;
+    width: 50%;
+    margin-bottom: 0.4375rem;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    background-position: center;
+    background-size: 30%;
+    background-repeat: no-repeat;
+}
+
+.hearderImg{
+  border-radius: 50%;
+  width: 10em;
+  margin-bottom:0;
+  margin-left: 40%;
+}
+
+.recomText {
+    font-style: italic;
+    border-left: 1px solid darkgray;
+    padding-left: 20px;
+}
+
+.suitcase{
+    background-image: url(../pages/experience/suitcase.svg);
+}
+
+.hobbies{
+    background-image: url(../pages/hobbies/hobbies.svg);
+}
+
+.recommendations{
+    background-image: url(../pages/recommendations/recommendations.svg);
+}
+
+.technologies{
+    background-image: url(../pages/technologies/technologies.svg);
+}
+
+.footer{
+    font-family:Arial;
+    font-size: 0.9rem;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}

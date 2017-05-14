@@ -1,0 +1,16 @@
+{
+    "data":[
+      {
+      "name": "Igor Litvin",
+      "position": "Engineer at Microsoft",
+      "text": "Roman is a true professional who is very analytically and structured in his way of working."
+    },
+      {
+        "name": "Roman Nikolayev",
+        "position": "IT-Manager",
+        "text": "I know Roman as a responsible business partner and experienced professional in marketing and project management. Good understanding of clients, excellent communication with team and partners make him a reliable person for business partnership"
+      }
+
+      ]
+
+}

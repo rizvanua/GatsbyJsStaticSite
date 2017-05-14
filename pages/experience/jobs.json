@@ -1,0 +1,30 @@
+{
+    "data":[
+      {
+      "position": "Javascript Developer",
+      "company": "Mettle VR",
+      "period": "Jan 2017 - Present"
+    },
+    {
+      "position": "Javascript Developer",
+      "company": "Self-Employed",
+      "period": "2016 - 2017"
+    },
+    {
+      "position": "Javascript Developer",
+      "company": "SkillStorm",
+      "period": "2014 - 2015"
+    },
+    {
+      "position": "Project Manager",
+      "company": "GSASoft",
+      "period": "2012 - 2014"
+    },
+    {
+      "position": "Project Manager/UI Designer",
+      "company": "GSASoft",
+      "period": "2009 - 2012"
+    }
+      ]
+
+}
