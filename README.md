@@ -1,8 +1,12 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# Simple personal site on GatsbyJs
+About Gatsby.js ` https://github.com/gatsbyjs/gatsby/tree/1.0`
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+# Commands
+install dependencies:
+`npm i`
 
 ## Running in development
-`gatsby develop`
+`npm run dev` or`gatsby develop`
+
+## Running in production
+`npm run build`
